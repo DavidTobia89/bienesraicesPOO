@@ -1,0 +1,19 @@
+{
+    "name": "tobid/bienesraices",
+    "description": "Creando un aplicacion con POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "DavidTobia89",
+            "email": "115034424+DavidTobia89@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^3.6"
+    },
+    "autoload": {
+    "psr-4": {
+        "App\\": "classes/"
+    }
+}
+}
